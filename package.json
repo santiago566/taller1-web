@@ -1,0 +1,19 @@
+{
+  "name": "taller1",
+  "version": "1.0.0",
+  "description": "finalizar node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiago566/taller1-web.git"
+  },
+  "author": "Santiago Pineda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiago566/taller1-web/issues"
+  },
+  "homepage": "https://github.com/santiago566/taller1-web#readme"
+}
