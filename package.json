@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/santiago566/taller1-web#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.19.2"
   }
 }

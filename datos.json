@@ -1,3 +1,49 @@
 [
-  
+  {
+    "id": 4,
+    "d": 20,
+    "corredores": [
+      {
+        "id": 1,
+        "vel": 8,
+        "pausa": 2,
+        "tllegada": "2.50 hrs",
+        "pausas": [
+          "8 km (1.00 hrs)",
+          "16 km (2.00 hrs)"
+        ]
+      },
+      {
+        "id": 3,
+        "vel": 8,
+        "pausa": 2,
+        "tllegada": "2.50 hrs",
+        "pausas": [
+          "8 km (1.00 hrs)",
+          "16 km (2.00 hrs)"
+        ]
+      },
+      {
+        "id": 2,
+        "vel": 7,
+        "pausa": 2,
+        "tllegada": "2.86 hrs",
+        "pausas": [
+          "7 km (1.00 hrs)",
+          "14 km (2.00 hrs)"
+        ]
+      },
+      {
+        "id": 4,
+        "vel": 6,
+        "pausa": 3,
+        "tllegada": "3.33 hrs",
+        "pausas": [
+          "6 km (1.00 hrs)",
+          "12 km (2.00 hrs)",
+          "18 km (3.00 hrs)"
+        ]
+      }
+    ]
+  }
 ]
